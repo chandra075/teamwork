@@ -4,4 +4,6 @@ for i in range(1,11): # Added a comment @ line 1
     print(i*1) # added another feature @ line 4
     if (i+1)==10:
         print("this number is equal to 10")
+    else:
+        print("this number is smaller than 10")
     
